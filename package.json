@@ -1,0 +1,35 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "start": "node ./server/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.5",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "const": "^1.0.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.17.0",
+    "joi": "^13.0.1",
+    "mongoose": "^5.9.2",
+    "morgan": "^1.8.1",
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.11.0",
+    "passport": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "sass-loader": "^8.0.2",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.10.3"
+  }
+}
