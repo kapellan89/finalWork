@@ -22,7 +22,7 @@
     "joi": "^13.0.1",
     "mongoose": "^5.9.2",
     "morgan": "^1.8.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.11.0",
     "passport": "~0.2.0",
     "passport-local": "~1.0.0",
